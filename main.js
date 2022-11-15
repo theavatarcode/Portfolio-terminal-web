@@ -8,6 +8,7 @@ var git = 0;
 var pw = false;
 let pwd = false;
 var commands = [];
+var github = 'https://github.com/theavatarcode';
 
 setTimeout(function() {
   loopLines(banner, "", 80);
@@ -107,7 +108,7 @@ function commander(cmd) {
       break;
     case "projects":
       loopLines(projects, "color2 margin", 80);
-      newTab(github)
+      window.open(github)
       break;
     case "password":
       addLine("<span class=\"inherit\"> Lol! You're joking, right? You\'re gonna have to try harder than that!😂</span>", "error", 100);
