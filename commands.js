@@ -46,9 +46,9 @@ about = [
     '| | 4 | 5 | 6 | | - | |            <i class="fa-solid fa-phone"></i> <a href="#" target="_blank">081-2319434</a>                                                              ',
     '| |___|___|___| |___| |            --------------------------------------------------                                                             ',
     '| | 1 | 2 | 3 | | x | |            <i class="fa-solid fa-globe"></i>  My Website                                                             ',
-    '| |___|___|___| |___| |            <i class="fa-solid fa-book"></i> <a href="https://realtimechat-application-nt.herokuapp.com/" target="_blank">Chat Application</a>                                                                 ',
-    '| | . | 0 | = | | / | |            <i class="fa-solid fa-book"></i> <a href="https://memory-game-nt.netlify.app/" target="_blank">Memory Game</a>                                                                 ',
-    '| |___|___|___| |___| |            --------------------------------------------------                                                                 ',
+    '| |___|___|___| |___| |            <i class="fa-solid fa-book"></i> <a href="https://realtimechat-application-nt.herokuapp.com/" target="_blank">Chat Application</a> ',
+    '| | . | 0 | = | | / | |            <i class="fa-solid fa-book"></i> <a href="https://memory-game-nt.netlify.app/" target="_blank">Memory Game</a>    ',
+    '| |___|___|___| |___| |            <i class="fa-solid fa-book"></i> <a href="https://text2img-bynewton.netlify.app/" target="_blank">AI Generate Image</a>                                                                ',
     '|_____________________|            <i class="fa-solid fa-code"></i>                                                                ',
     '<br>'
 ]
